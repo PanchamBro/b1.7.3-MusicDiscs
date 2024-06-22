@@ -29,6 +29,11 @@ public class Texturing {
         Discs.wait_Disc.setTexture(of(MOD_ID,"item/wait_disc"));
         Discs.pigstep_Disc.setTexture(of(MOD_ID,"item/pigstep_disc"));
         Discs.otherside_Disc.setTexture(of(MOD_ID,"item/otherside_disc"));
+        Discs.five_Disc.setTexture(of(MOD_ID,"item/5_disc"));
+        Discs.relic_Disc.setTexture(of(MOD_ID,"item/relic_disc"));
+        Discs.creator_Disc.setTexture(of(MOD_ID,"item/creator_disc"));
+        Discs.creatormusicbox_Disc.setTexture(of(MOD_ID,"item/creatormusicbox_disc"));
+        Discs.precipice_Disc.setTexture(of(MOD_ID,"item/precipice_disc"));
     }
 }
 
